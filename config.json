@@ -1,0 +1,15 @@
+{
+    "plugin": 
+        {
+            "version": "0.1",
+            "index": "test.html",
+            "icon": "assets/ico.png",
+            "screenshot": "assets/test.png",
+        
+            "name" : "test2",
+            "pluginid" : "plugin-jPINpOfOSUwxQkmb614afcb9ec640DWQAMMBveESFqQlo",
+        
+            "description": "login plugin",
+            "requirement" : "chrome, firefox, MS edge"
+    }
+  }
